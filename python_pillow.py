@@ -11,10 +11,7 @@ PILLOW is a Python Imaging Library.Over 30 different file formats can be identif
 For more information visit https://github.com/python-pillow/Pillow
 """
 
-from google.colab import drive
-drive.mount('/content/drive')
 
-cd 'drive/My Drive/images'
 
 """# Image Module
 https://pillow.readthedocs.io/en/stable/reference/Image.html#
